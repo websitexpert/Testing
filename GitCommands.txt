@@ -1,0 +1,9 @@
+Go inside directory
+-> $ cd /c
+
+-> $ git config --global user.name ""
+-> $ git config --global user.email ""
+
+
+Download/Copy files Github to Local
+-> $git clone (URL)
